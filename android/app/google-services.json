@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "476834739160",
+      "firebase_url": "https://surakshakavach-9dfc9.firebaseio.com",
+      "project_id": "surakshakavach-9dfc9",
+      "storage_bucket": "surakshakavach-9dfc9.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:476834739160:android:df5fa54ceaa936c15838ad",
+          "android_client_info": {
+            "package_name": "com.Akash.SurakshaKavach"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "476834739160-o7gl26dfpisi6oqmcrbthpb2tii24lnr.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDQ8035V2GU3F9gQv5KrSekIExA6rDgGPc"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "476834739160-o7gl26dfpisi6oqmcrbthpb2tii24lnr.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
